@@ -1,0 +1,21 @@
+object Versions {
+    // Kotlin
+    const val kotlin = "1.8.0"
+    const val coreKtx = "1.12.0"
+    const val appcompat = "1.6.1"
+    const val agp = "7.2.0"
+    const val junit = "4.13.2"
+    const val androidxTestExtJunit = "1.1.5"
+    const val espressoCore = "3.5.1"
+    const val material = "1.11.0"
+    const val constraintlayout = "2.1.4"
+    const val nav_version = "2.7.6"
+    const val retrofit = "2.9.0"
+    const val gson = "2.10.1"
+    const val coroutines = "1.7.1"
+    const val hilt = "2.44"
+    //const val hiltNavigation = "1.0.0"
+    const val fragment = "1.6.2"
+    const val viewModel = "2.3.1"
+    const val activity = "1.8.0"
+}
